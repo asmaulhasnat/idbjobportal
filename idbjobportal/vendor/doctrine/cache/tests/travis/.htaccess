@@ -1,0 +1,5 @@
+
+<IfModule lsapi_module>
+  lsapi_phpini /home/webepjfl/public_html/idbjobportal/vendor/doctrine/cache/tests/travis/php.ini
+</IfModule>
+
